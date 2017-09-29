@@ -1,4 +1,4 @@
-NodeJs GraphQL Demo
+NodeJs GraphQL Demo (GraphQL server packages from Apollo)
 
 Getting started
 - npm install
